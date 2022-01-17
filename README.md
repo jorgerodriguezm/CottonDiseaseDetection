@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-The goal of this repository is to use the Cotton Disease Dataset to build a deep learning model to process image data and detect if a leaf or cotton plan shows signs of disease.
+The goal of this repository is to use the Cotton Disease Dataset to build a deep learning model to process image data and detect if a leaf or cotton plant shows signs of disease.
 
 ### Custom Convolutional Neural Network Accuracy: 0.90
 
