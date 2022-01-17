@@ -1,4 +1,4 @@
-![]()
+![](https://raw.githubusercontent.com/jorgerodriguezm/CottonDiseaseDetection/main/Assets/cottonBanner.jpg)
 
 ## About this Repository
 
@@ -14,7 +14,7 @@ The goal of this repository is to use the Cotton Disease Dataset to build a deep
 
 ### Model in this Repository:
 
-- [Cotton Disease Detection]()
+- [Cotton Disease Detection](https://github.com/jorgerodriguezm/CottonDiseaseDetection/blob/main/Model/cotton-disease-custom-cnn-transfer-learning.ipynb)
 
 ### Cotton Disease Detection
 
