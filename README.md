@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jorgerodriguezm/CottonDiseaseDetection/main/Assets/cottonBanner.jpg)
+![](https://github.com/jorgerodriguezm/CottonDiseaseDetection/blob/main/Assets/banner.png)
 
 ## About this Repository
 
